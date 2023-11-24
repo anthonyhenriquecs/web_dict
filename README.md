@@ -1,5 +1,6 @@
 # web_dict
 
+
 #Gereção de uma pagina web a partir de um dicionario
 filmes = {
     "ficção": ["Circulo de fogo", "Piratas do caribe"],
